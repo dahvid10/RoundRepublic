@@ -16,9 +16,7 @@ Regions
 - Subarrangements of 4 sectional regions in a fractal manner may be necessary for optimal management and representation.
 - Sectional regions will have at least 12 citizens.
 
-Leadership
-
-Central Advisory Council
+Leadership: Central Advisory Council
 - A central advisory council will advise and administer the union. 
 - The central advisory council pools 3 representatives with diverse experiences from each cardinal region.
 - Further sectionality is possible within each region, but only 3 representatives from each region serve in the council.
