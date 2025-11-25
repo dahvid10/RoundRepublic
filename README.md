@@ -1,4 +1,8 @@
-# o - o - o - o RoundRepublic o - o - o - o
+# RoundRepublic
+o - o - o - o 
+RoundRepublic 
+o - o - o - o
+
 Establish harmonious rulership in states by delegating leadership roles from four cardinal regions in a union via round robin rotations with 2 year term limits.  A central advisory council advises and executes necessary administrative changes across the union.  
 
 o - o - o - o
