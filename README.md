@@ -39,7 +39,7 @@ Selection for the Central Advisory Council
 * Randomly select 2 willing individuals from 3 socioeconomic categories - high, mid, and low.
 * Randomly select 2 willing individuals from 3 ethnically populous categories - high, mid, and low.
 * Regions will evaluate selections with extreme scenarios to represent the candidate's embodiment of these Biblical virtues:  Love, Faith, Hope, Humility, Integrity, Wisdom, Righteousness, Self-control, Patience, Diligence, Courage, Perseverance, Joy, Peace, Kindness, Compassion, Forgiveness, Generosity, Service, Trustworthiness, Gentleness, Obedience, Fidelity, Zeal, Meekness, Long-suffering, Hospitality, Gratitude, Contentment, Sincerity, Modesty, Discipline, Justice, Faithfulness, Purity.
-<img width="1660" height="708" alt="image" src="https://github.com/user-attachments/assets/e8f936ed-1978-472e-ba4e-9f347353c9e3" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/e8f936ed-1978-472e-ba4e-9f347353c9e3" />
 
 * Prefer these Biblical virtues to avoid greed, marginalization, sexual immorality, substance abuse, laziness, terrorism, pride, apathy and other mentalities that degrade human dignity.
 * Prefer these Biblical virtues to optimally manage resources and champion God's creation, especially human dignity.
